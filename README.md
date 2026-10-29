@@ -1,3 +1,2 @@
 # Netflix-clone
-Make my first project in web development 
-Author-Snehasis Ghanta
+Netflix UI Clone using HTML and CSS
